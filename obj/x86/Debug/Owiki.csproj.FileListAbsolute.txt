@@ -1,0 +1,21 @@
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\bin\Debug\Owiki.exe
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\bin\Debug\Owiki.pdb
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\Owiki.Owiki.resources
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\Owiki.newprofile.resources
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\Owiki.Properties.Resources.resources
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\Owiki.exe
+C:\Documents and Settings\thai\Local Settings\Data aplikací\Temporary Projects\Owiki\obj\x86\Debug\Owiki.pdb
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\Owiki.exe
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\Owiki.pdb
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\bin\Debug\Owiki.exe
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\bin\Debug\Owiki.pdb
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\Owiki.searchprofile.resources
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\Owiki.Owiki.resources
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\Owiki.newprofile.resources
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\Owiki.Properties.Resources.resources
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\thai\dokumenty\visual studio 2010\Projects\Owiki\Owiki\obj\x86\Debug\GenerateResource.write.1.tlog
